@@ -1,0 +1,7 @@
+import math
+x=10
+y=24
+ 
+z=(x*x)+(y*y)
+ 
+print(math.sqrt(z))
